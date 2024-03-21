@@ -1,2 +1,2 @@
-# Curso-VUE
-Curso VUE Udemy
+# Course-VUE
+Udemy VUE Course
